@@ -1,0 +1,7 @@
+name=testTwoBean
+clazz=com.hotz.simple.spring.bean.TestTwoBean
+end
+
+name=simpleBeanw
+clazz=com.hotz.simple.spring.bean.Simplebean
+end
